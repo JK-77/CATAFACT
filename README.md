@@ -1,8 +1,8 @@
-# 🐾 CataFact · [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/HarshilShrma/CataFax) 
+# 🐾 CataFax · [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/HarshilShrma/CataFax) 
 
 > Instant random cat facts with a playful twist  
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80-Live%20Demo-blue)](https://harshilshrma.github.io/CataFax/)
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80-Live%20Demo-blue)](https://vercel.com/jk-77s-projects/catafax)
 [![GitHub License](https://img.shields.io/github/license/HarshilShrma/CataFax)](LICENSE)
 
 <p align="center">
@@ -30,4 +30,4 @@
 ## 🚀 Quick Start  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/HarshilShrma/CataFax.git
+   git clone https://github.com/JK-77/CataFax.git
