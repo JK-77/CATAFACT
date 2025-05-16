@@ -1,33 +1,35 @@
-# 🐾 CataFax · [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/HarshilShrma/CataFax) 
+# 🐈 CataFax 
 
-> Instant random cat facts with a playful twist  
+> A delightful cat fact generator with playful interactions
 
-[![Live Demo](https://github.com/JK-77/CataFax/blob/main/LICENSE)](https://vercel.com/jk-77s-projects/catafax)
-[![GitHub License](https://github.com/JK-77/CataFax/blob/main/LICENSE)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-%F0%9F%9A%80-blue)](https://harshilshrma.github.io/CataFax/)
+[![GitHub License](https://img.shields.io/github/license/HarshilShrma/CataFax)](LICENSE)
 
 <p align="center">
-  <img src="./github-readme-cover.png" alt="Cover" width="90%">
-  <br>
-  <a href="https://github.com/JK-77/CataFax.git">
-    <img src="./cat-icon.png" width="80" alt="Launch CataFact">
+  <a href="https://harshilshrma.github.io/CataFax/">
+    <img src="./cat-icon.png" width="100" alt="Launch CataFax">
+    <br>
+    <em>Tap the cat to play!</em>
   </a>
 </p>
 
----
+![Project Screenshot](./github-readme-cover.png)
 
-## ✨ Features  
-- **🐱 API-Powered Facts**: Fetches random cat trivia from public APIs  
-- **🔊 Meow Button**: Interactive sound effect on click  
-- **⚡ Async Loading**: Smooth content fetching with `async/await`  
-- **📱 Responsive**: Works on all device sizes  
+## 🛠 Technologies Used
 
-## 🛠 Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack"/>
+  </a>
+</div>
 
-## 🚀 Quick Start  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/JK-77/CataFax.git
+## ✨ Features
+- **🐱 Random Cat Facts**: Fresh feline trivia on demand
+- **🔊 Interactive Meows**: Playful sound effects
+- **⚡ Instant Loading**: Async API fetching
+- **🌈 Vibrant UI**: Eye-catching design
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/HarshilShrma/CataFax.git
+open index.html
