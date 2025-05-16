@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    color: #fff;
+
+}
+
+.heading-text {
+    text-align: center;
+    margin: 0px 0px 120px 0px;
+    padding: 12px;
+    font-size: 1rem;
+    font-family: 'Luckiest Guy', cursive;
+    height: 5rem;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 4rem;
+}
+
+body {
+    background-color: #000000;
+    margin: 4rem 5rem;
+}
+
+#fax {
+    font-size: 2rem;
+}
+
+.footer-text {
+    position: fixed;
+    bottom: calc(0% + 20px);
+    left: 0;
+    width: 100%;
+    background-color: #000000; 
+    padding: 30px; 
+    text-align: center;
+}
+
+.endingText{
+    font-size: 1rem;
+}
+
+
+.button-50 {
+    appearance: button;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #000;
+    border-radius: 4px;
+    box-shadow: #000000 4px 4px 0 0, #ffffff 4px 4px 0 1px;
+    box-sizing: border-box;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 20px;
+    margin: 0 5px 10px 0;
+    overflow: visible;
+    padding: 12px 23px;
+    text-align: center;
+    text-transform: none;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.button-50:not([disabled]):active {
+    box-shadow: #ffffff 2px 2px 0 0, #000000 2px 2px 0 1px;
+    transform: translate(2px, 2px);
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        margin: 2rem; /* Adjust margins for smaller screens */
+    }
+
+    .heading-text {
+        margin: 0 0 60px 0; /* Adjust heading margin for smaller screens */
+        font-size: 3rem; /* Adjust heading font size for smaller screens */
+    }
+
+    #fax {
+        font-size: 1.2rem; /* Adjust font size for smaller screens */
+    }
+
+    .button-50 {
+        font-size: 12px; /* Adjust button font size for smaller screens */
+    }   
+
+    .endingText{
+        font-size: 0.7rem;
+    }
+}
