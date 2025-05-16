@@ -2,11 +2,11 @@
 
 > A delightful cat fact generator with playful interactions
 
-[![Live Demo](https://img.shields.io/badge/Demo-%F0%9F%9A%80-blue)](https://harshilshrma.github.io/CataFax/)
-[![GitHub License](https://img.shields.io/github/license/HarshilShrma/CataFax)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-%F0%9F%9A%80-blue)](https://jk-77.github.io/CataFax/)
+[![GitHub License](https://img.shields.io/github/license/JK-77/CataFax)](https://github.com/JK-77/CataFax/blob/main/LICENSE)
 
 <p align="center">
-  <a href="https://harshilshrma.github.io/CataFax/">
+  <a href="https://jk-77.github.io/CataFax/">
     <img src="./cat-icon.png" width="100" alt="Launch CataFax">
     <br>
     <em>Tap the cat to play!</em>
@@ -31,5 +31,6 @@
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/HarshilShrma/CataFax.git
+git clone https://github.com/JK-77/CataFax.git
+cd CataFax
 open index.html
