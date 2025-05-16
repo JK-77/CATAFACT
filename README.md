@@ -2,13 +2,13 @@
 
 > Instant random cat facts with a playful twist  
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80-Live%20Demo-blue)](https://vercel.com/jk-77s-projects/catafax)
-[![GitHub License](https://img.shields.io/github/license/HarshilShrma/CataFax)](LICENSE)
+[![Live Demo](https://github.com/JK-77/CataFax/blob/main/LICENSE)](https://vercel.com/jk-77s-projects/catafax)
+[![GitHub License](https://github.com/JK-77/CataFax/blob/main/LICENSE)](LICENSE)
 
 <p align="center">
   <img src="./github-readme-cover.png" alt="Cover" width="90%">
   <br>
-  <a href="https://harshilshrma.github.io/CataFax/">
+  <a href="https://github.com/JK-77/CataFax.git">
     <img src="./cat-icon.png" width="80" alt="Launch CataFact">
   </a>
 </p>
