@@ -2,11 +2,11 @@
 
 > A delightful cat fact generator with playful interactions
 
-[![Live Demo](https://img.shields.io/badge/Demo-%F0%9F%9A%80-blue)](https://jk-77.github.io/CataFax/)
+[![Live Demo](https://img.shields.io/badge/Demo-%F0%9F%9A%80-blue)](https://vercel.com/jk-77s-projects/catafax)
 [![GitHub License](https://img.shields.io/github/license/JK-77/CataFax)](https://github.com/JK-77/CataFax/blob/main/LICENSE)
 
 <p align="center">
-  <a href="https://jk-77.github.io/CataFax/">
+  <a href="https://vercel.com/jk-77s-projects/catafax">
     <img src="./cat-icon.png" width="100" alt="Launch CataFax">
     <br>
     <em>Tap the cat to play!</em>
